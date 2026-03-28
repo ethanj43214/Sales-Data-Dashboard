@@ -52,16 +52,16 @@ High-level KPIs at a glance:
 ## 📷 Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard](Exec_Dashboard_Snapshot.png)
+![Executive Dashboard](screenshots/Exec%20Dashboard%20Snapshot.png)
 
 ### Map – Sales by Region
-![Map](Map_Sales_Snapshot_.png)
+![Map](screenshots/Map%20Sales%20Snapshot%20.png)
 
 ### Customer Details
-![Customer Details](Customer_Detail_Snapshot.png)
+![Customer Details](screenshots/Customer%20Detail%20Snapshot.png)
 
 ### Product Details
-![Product Details](Product_Details_Snapshot.png)
+![Product Details](screenshots/Product%20Details%20Snapshot.png)
 
 ---
 Built with ❤️ using Power BI | AdventureWorks Dataset
